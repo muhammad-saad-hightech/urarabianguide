@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>دليلك العربي</title>
+    <link href="https://urarabianguide.firebaseapp.com/feed.xml" rel="self" />
+    <link href="https://urarabianguide.firebaseapp.com" />
+    <updated>١٩٧٠-٠١-٠١T٠٢:٠٠:٠٠+٠٢:٠٠</updated>
+    <author>
+        <name>هادي</name>
+    </author>
+    <id>https://urarabianguide.firebaseapp.com</id>
+
+</feed>
